@@ -1,0 +1,1 @@
+articol="Ferraari f80 este o masina rosie"
