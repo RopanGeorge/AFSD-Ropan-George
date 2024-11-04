@@ -15,3 +15,4 @@ rezultat =partea1+partea2
 print(partea1)
 print(partea2)
 print(rezultat)
+
